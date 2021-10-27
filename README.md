@@ -45,3 +45,14 @@ Existe ainda o ***RGBA***, que funciona da mesma maneira que o ***RBG*** porém 
 ---
 
 ## Bitmaps
+
+---
+
+## Layers
+
+Imagem criada durante uma aula presencial. O objetivo era explorar mais sobre as layers e as suas propriedades dentro do Photoshop. Cada elemento nesta imagem é uma camada diferente, e deste modo podemos trabalhar em cada uma individualmente sem interferir com os restantes componentes.
+
+| Layers |
+| ---- |
+![image](https://user-images.githubusercontent.com/47821731/139156126-21811167-d461-46e5-8feb-37089aafe439.png)
+
