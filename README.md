@@ -16,7 +16,7 @@ Exemplos de formatos : PNG , TIFF
 A compressão com perda de dados deve ser usada quando o fator de ***portabilidade ou redução do tamanho*** da mesma é mais importante. Por exemplo para usar numa rede social.  
 Exemplos de formatos : JPEG , GIFF
 
-### Comparação entre *PNG* e *JPEG*
+## Comparação entre *PNG* e *JPEG*
 
 | PNG | JPEG |
 |------|-------|
@@ -49,10 +49,33 @@ Existe ainda o ***RGBA***, que funciona da mesma maneira que o ***RBG*** porém 
 ---
 
 ## Layers
-
 Imagem criada durante uma aula presencial. O objetivo era explorar mais sobre as layers e as suas propriedades dentro do Photoshop. Cada elemento nesta imagem é uma camada diferente, e deste modo podemos trabalhar em cada uma individualmente sem interferir com os restantes componentes.
 
 | Layers |
 | ---- |
 ![image](https://user-images.githubusercontent.com/47821731/139156126-21811167-d461-46e5-8feb-37089aafe439.png)
+
+## Tipografia
+Tipografia é o estudo que abrange a criação e a aplicação dos caracteres, estilos, formatos e arranjos visuais das palavras. É bastante importante escolher o tipo de letra correto e adqueado a cada projeto pois as mesmas podem transmitir diferentes sensações em diferentes contextos.
+Existem 2 tipos de fontes, com serifas ou sem serifas.
+
+| Sans Serif VS Serif |
+| ---- |
+![image](https://correiodafeira.pt/upload/photo/sansserif-1621594622.png)
+
+### Sans-serif
+São os tipos de letra sem serifa no final dos traços. Tendem a ter menos largura e são geralmente usadas para transmitir simplicidade e modernidade.
+Exemplos : Roboto, Arial, Montserrat
+
+### Serif
+Estes tipos de letra contém as serifas no final dos traços dando mais detalhe à fonte. São mais usadas para representar algo mais antiquado e "romano".
+Exemplos : PT Serif, Courier, Times New Roman
+
+É possível fazer download gratuito de várias fontes através dos seguintes links : 
+| Links |
+| ---- |
+| https://fonts.google.com/ |
+| https://www.dafont.com/pt/ |
+| https://www.1001freefonts.com/ |
+
 
