@@ -111,6 +111,47 @@ Exemplos : PT Serif, Courier, Times New Roman
 
 ---
 
+## Creative Commons
+As licenças Creative Commons são várias licenças públicas que permitem a distribuição gratuita de uma obra protegida por direitos de autor. É usada quando um autor quer dar às pessoas o direito de partilhar, usar e construir sobre um trabalho que ele criou. Existem diversos tipos de licenças que o autor pode usar na sua obra.
+
+| Tipos de Licenças |
+| ---- |
+![image](https://user-images.githubusercontent.com/75622692/138770712-898c8edc-c877-4c76-9621-90e8d97a6e9e.png)
+
+---
+
 ## Exercício 1 - Edição de Imagem 
 Foi proposto como primeiro exercício de avaliação a criação de um cartaz em A3 para uma feira de emprego e uma versão para partilha no instagram. 
 
+| Cartaz |
+| ---- |
+![image](https://user-images.githubusercontent.com/47821731/150699734-13c7f669-1e2a-4439-bb3d-849e56429a33.jpg)
+
+| Versão Instagram |
+| ---- |
+|![image](https://user-images.githubusercontent.com/47821731/150699769-98900e4f-ab27-41ae-bbea-a35df1b61ba3.png)|
+
+---
+
+## Formatos de Vídeo
+Tal como na edição de imagem existem diversos tipos de formatos na edição de vídeo. Irei apresentar alguns deles.
+
+### AVI
+O AVI (Audio Video Interleave) é um formato desenvolvido pela Microsoft e um dos primeiros compressores de vídeo criados. É um formato simples, que guarda no mesmo arquivo as faixas de áudio e os dados de imagem. É comum que haja alguma perda de dados na compressão e, com isso, o vídeo não tenha 100% da qualidade de gravação no ato da visualização.
+
+### WMV
+O WMV (Windows Media Video/Audio) é um formato desenvolvido pela Microsoft como um substituto do AVI. Esses arquivos são compatíveis com o YouTube e conseguem preservar a qualidade mesmo em tamanhos menores de compressão. A vantagem deste formato é poder começar a reproduzi-lo sem carregá-lo por completo, o que é ideal para streaming na internet (por ex. YouTube).
+
+### MOV
+O MOV é um concorrente direto do AVI, criado pela Apple. A grande vantagem dele em relação ao AVI é que a perda de dados é menor na compressão. Sendo assim, mesmo em ficheiros mais pequenos, o MOV consegue entregar áudio e vídeo com boa qualidade.
+
+### FLV
+A Adobe também tem seu próprio formato de vídeo: o FLV. Esse é o tipo de arquivo mais indicado para reprodução no YouTube, já que a plataforma conta com a tecnologia Flash Player.
+
+### MP4
+Esse é um dos formatos de vídeo mais conhecidos, é o mais típico nos dispositivos móveis. A vantagem do MP4 é que ele guarda no mesmo ficheiro as faixas de áudio, de vídeo, imagens e legendas. Ele é uma variante do MPEG (Moving Picture Expert Group), criado com o objetivo de ser revolucionário da preservação da qualidade mesmo após compressão.
+
+---
+
+## Formato RAW
+O formato RAW é um método de gravação em que as imagens são capturadas sem qualquer compressão do sensor de imagem da câmera, trazendo uma alta qualidade. Por ser bruta ou não refinada, a filmagem permanece como foi capturada, mantendo todos os detalhes, cores verdadeiras e iluminação, o que permite uma oportunidade considerável de modificação. Este formato costuma ser muito grande e apenas algumas aplicações conseguem decodificá-lo, devido à falta de codecs que possam lidar com esse formato.
