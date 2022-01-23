@@ -155,3 +155,13 @@ Esse é um dos formatos de vídeo mais conhecidos, é o mais típico nos disposi
 
 ## Formato RAW
 O formato RAW é um método de gravação em que as imagens são capturadas sem qualquer compressão do sensor de imagem da câmera, trazendo uma alta qualidade. Por ser bruta ou não refinada, a filmagem permanece como foi capturada, mantendo todos os detalhes, cores verdadeiras e iluminação, o que permite uma oportunidade considerável de modificação. Este formato costuma ser muito grande e apenas algumas aplicações conseguem decodificá-lo, devido à falta de codecs que possam lidar com esse formato.
+
+---
+
+## Tutoriais
+
+| Links |
+| ---- |
+| https://www.youtube.com/watch?v=mw-qZ7wIBfI |
+| https://www.youtube.com/watch?v=qQWtbjNPT3Y |
+| https://www.youtube.com/watch?v=QN4nJpoGrqo |
