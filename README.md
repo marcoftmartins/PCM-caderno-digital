@@ -45,15 +45,46 @@ Existe ainda o ***RGBA***, que funciona da mesma maneira que o ***RBG*** porém 
 ---
 
 ## Bitmaps
+Os bitmaps é uma matriz onde cada elemento dessa mesma matriz tem um código de cor associado, é uma imagem em que cada bit corresponde a um pixel. Geralmente estas têm o formato .BMP
 
+| Exemplo Bitmap |
+| ---- |
+![image](https://flylib.com/books/1/122/1/html/2/images/fig10-1.jpg)
 ---
 
 ## Layers
+As Layers dentro do Photoshop permitem poduzir uma edição não destrutiva ao empilhar várias imagens umas por cima das outras sem interferir nelas diretamente. Funciona para imagens, texto, vectores, etc.
+Existem 2 tipos diferentes de layers:
+* *Content Layers*
+* *Adjustment Layers*
+
+### Content Layers
+As Content Layers são as camadas que correspondem ao conteúdo, por exemplo fotografias, texto, formas, etc.
+
+### Adjustment Layers
+As Adjustment Layers são as camadas responsáveis por aplicar efeitos às camadas que estão abaixo desta, por exemplo brilho, saturação, sombras, etc.
+
+| Content Layer VS Adjustment Layer |
+| ---- |
+![image](https://helpx.adobe.com/content/dam/help/en/photoshop/how-to/adjustment-layer/jcr%3Acontent/main-pars/image_1092034117/adjustment-layer_step-1.jpg)
+
+### Exemplo de Aula
 Imagem criada durante uma aula presencial. O objetivo era explorar mais sobre as layers e as suas propriedades dentro do Photoshop. Cada elemento nesta imagem é uma camada diferente, e deste modo podemos trabalhar em cada uma individualmente sem interferir com os restantes componentes.
 
 | Layers |
 | ---- |
 ![image](https://user-images.githubusercontent.com/47821731/139156126-21811167-d461-46e5-8feb-37089aafe439.png)
+
+---
+
+## Smart Object
+Um Smart Object no Photoshop é um layer que contém toda a informação relativa à imagem mas que torna e edição não destrutiva, ou seja é possível sempre reverter à versão original e podemos por exemplo redimensionar a imagem as vezes que quisermos que não vamos degradar a sua resolução.
+
+| Smart Object | Smart Object |
+| ---- | ---- |
+|![image](https://photoshopcafe.com/wp-content/uploads/2018/07/smartObjects_photoshop_09.jpg)|![image](https://photoshopcafe.com/wp-content/uploads/2018/07/smartObjects_photoshop_10.jpg)|
+
+---
 
 ## Tipografia
 Tipografia é o estudo que abrange a criação e a aplicação dos caracteres, estilos, formatos e arranjos visuais das palavras. É bastante importante escolher o tipo de letra correto e adqueado a cada projeto pois as mesmas podem transmitir diferentes sensações em diferentes contextos.
@@ -78,4 +109,8 @@ Exemplos : PT Serif, Courier, Times New Roman
 | https://www.dafont.com/pt/ |
 | https://www.1001freefonts.com/ |
 
+---
+
+## Exercício 1 - Edição de Imagem 
+Foi proposto como primeiro exercício de avaliação a criação de um cartaz em A3 para uma feira de emprego e uma versão para partilha no instagram. 
 
